@@ -1,5 +1,5 @@
 ## Hi there 👋
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![tree](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 <!--
 **waldhacw6865/waldhacw6865** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
